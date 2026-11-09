@@ -15,7 +15,7 @@ If the option finishes in-the-money, it has value. If it finishes out-of-the-mon
 
 Derive offers European-style options. These can only be exercised at expiry (they settle to cash rather than delivering the underlying).
 
-Key points from the official documentation:
+Key points from the official documentation ([Supported Products](https://docs.derive.xyz/supported-products)):
 
 - Options are marked to the USD price of the underlying and settled in the cash asset of the universe (USDC at launch).
 - Settlement uses a 30-minute TWAP of the base asset price.
