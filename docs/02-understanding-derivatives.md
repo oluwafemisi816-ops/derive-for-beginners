@@ -17,11 +17,11 @@ Common reasons people use derivatives:
 
 A perpetual future (or “perp”) is a futures contract with no expiry date. On Derive, funding payments are exchanged between long and short positions so the perp price stays close to the spot price.
 
-Derive marks perps using the spot price plus a 30-minute time-weighted average of the difference between the perp and spot. Perps are settled continuously when positions change.
+Derive marks perps using the spot price plus a 30-minute time-weighted average of the difference between the perp and spot. Perps are settled continuously when positions change. See [Supported Products](https://docs.derive.xyz/supported-products).
 
 ## Spot and collateral
 
-You can also hold or borrow certain base assets (for example ETH or BTC tokens) as collateral. Which assets are accepted depends on the risk universe you are in.
+You can also hold or borrow certain base assets (for example ETH or BTC tokens) as collateral. Which assets are accepted depends on the risk universe you are in. See [Managers & Risk Universes](https://docs.derive.xyz/trading/managers-and-risk-universes).
 
 ## Risk universes
 
